@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+
+nav ul{
+    text-align: center;
+}
+nav ol{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    width: 200px;
+}
+table{
+    text-align: center;
+}
+
+iframe{
+    text-emphasis: center;
+    width: 1200px;
+    height: 1200px;
+}
